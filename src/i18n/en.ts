@@ -44,7 +44,7 @@ export const en = {
     filterYear: 'Filter by year',
     allYears: 'All years',
     pdf: 'PDF',
-    link: 'Link',
+    link: 'View publication ↗',
   },
   awards: { title: 'Awards and honors' },
   teaching: { title: 'Teaching', term: 'Programme', intro: 'Courses in the M.Phil and Master of Public Administration programmes at Tribhuvan University.', other: 'Other courses' },
