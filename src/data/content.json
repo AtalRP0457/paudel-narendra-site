@@ -1,0 +1,164 @@
+{
+  "profile": {
+    "id": 1,
+    "name_en": "Dr. Narendra Raj Paudel",
+    "name_ne": "डा. नरेन्द्रराज पौडेल",
+    "role_en": "Associate Professor and Head, Central Department of Public Administration, Tribhuvan University",
+    "role_ne": "सह-प्राध्यापक तथा विभागीय प्रमुख, जनप्रशासन केन्द्रीय विभाग, त्रिभुवन विश्वविद्यालय",
+    "bio_en": "I am an Associate Professor and the Head of the Central Department of Public Administration at Tribhuvan University. I teach and supervise research at the Master's, M.Phil and PhD levels in public and development administration, and I represent Nepal on the executive of the Eastern Regional Organization for Public Administration (EROPA).\n\nMy research looks at how public policy is put into practice in Nepal: civil service management, citizens' trust in public institutions, accountability under federalism, social inclusion, and governance after disasters. I edit the South Asian Journal of Policy and Governance, where I have been Editor-in-Chief since 2022 after serving as Managing Editor from 2013 to 2019.\n\nBefore joining the university, I spent eight years in public service with the Nepal Army and the Ministry of Defence. That experience still shapes how I teach: administration is something people do every day, not only something we study.",
+    "bio_ne": "म त्रिभुवन विश्वविद्यालय, जनप्रशासन केन्द्रीय विभागमा सह-प्राध्यापक तथा विभागीय प्रमुख हुँ। म जनप्रशासन र विकास प्रशासनमा स्नातकोत्तर, एमफिल र विद्यावारिधि तहमा अध्यापन तथा अनुसन्धान निर्देशन गर्छु, र पूर्वी क्षेत्रीय जनप्रशासन संगठन (EROPA) को कार्यकारी समितिमा नेपालको प्रतिनिधित्व गर्छु।\n\nमेरो अनुसन्धान नेपालमा सार्वजनिक नीति कसरी कार्यान्वयन हुन्छ भन्नेमा केन्द्रित छ: निजामती सेवा व्यवस्थापन, सार्वजनिक संस्थाप्रति नागरिकको विश्वास, संघीयतामा जवाफदेहिता, सामाजिक समावेशीकरण र विपत्पछिको शासन। म सन् २०२२ देखि साउथ एसियन जर्नल अफ पोलिसी एन्ड गभर्नेन्सको प्रधान सम्पादक छु, र यसअघि सन् २०१३ देखि २०१९ सम्म व्यवस्थापकीय सम्पादक थिएँ।\n\nविश्वविद्यालयमा आउनुअघि मैले नेपाली सेना र रक्षा मन्त्रालयमा आठ वर्ष सार्वजनिक सेवा गरें। त्यो अनुभवले आज पनि मेरो अध्यापनलाई दिशा दिन्छ: प्रशासन पढ्ने विषय मात्र होइन, दैनिक गरिने काम पनि हो।",
+    "office_en": "Central Department of Public Administration, Tribhuvan University, Balkhu, Kathmandu, Nepal",
+    "office_ne": "जनप्रशासन केन्द्रीय विभाग, त्रिभुवन विश्वविद्यालय, बल्खु, काठमाडौं, नेपाल",
+    "office_hours_en": "",
+    "office_hours_ne": "",
+    "email": "",
+    "phone": "",
+    "photo_url": "/photo.jpg"
+  },
+  "research_areas": [
+    {
+      "id": 1,
+      "title_en": "Public policy implementation",
+      "title_ne": "सार्वजनिक नीति कार्यान्वयन",
+      "description_en": "How policies move from paper to practice, with a long-running focus on reproductive health and health service delivery at the local level.",
+      "description_ne": "नीति कागजबाट व्यवहारमा कसरी पुग्छ भन्ने अध्ययन, विशेषगरी स्थानीय तहमा प्रजनन स्वास्थ्य र स्वास्थ्य सेवा प्रवाहमा।"
+    },
+    {
+      "id": 2,
+      "title_en": "Civil service management",
+      "title_ne": "निजामती सेवा व्यवस्थापन",
+      "description_en": "Human resource management, job satisfaction and administrative systems in Nepal's civil service and across South Asia.",
+      "description_ne": "नेपाल र दक्षिण एसियाका निजामती सेवामा मानव संसाधन व्यवस्थापन, कार्य सन्तुष्टि र प्रशासनिक प्रणाली।"
+    },
+    {
+      "id": 3,
+      "title_en": "Trust, accountability and democratic governance",
+      "title_ne": "विश्वास, जवाफदेहिता र लोकतान्त्रिक शासन",
+      "description_en": "Citizens' trust in public institutions, electoral and social accountability, corruption, and democratic responsiveness.",
+      "description_ne": "सार्वजनिक संस्थाप्रति नागरिकको विश्वास, निर्वाचन तथा सामाजिक जवाफदेहिता, भ्रष्टाचार र लोकतान्त्रिक उत्तरदायित्व।"
+    },
+    {
+      "id": 4,
+      "title_en": "Federalism and local governance",
+      "title_ne": "संघीयता र स्थानीय शासन",
+      "description_en": "Public administration under Nepal's federal system, including provincial comparisons and decentralised service delivery.",
+      "description_ne": "नेपालको संघीय प्रणालीमा जनप्रशासन, प्रदेशगत तुलना र विकेन्द्रित सेवा प्रवाह।"
+    },
+    {
+      "id": 5,
+      "title_en": "Social inclusion and gender",
+      "title_ne": "सामाजिक समावेशीकरण र लैङ्गिकता",
+      "description_en": "Inclusive governance, women's participation in the civil service, and gender as a resource in public management.",
+      "description_ne": "समावेशी शासन, निजामती सेवामा महिला सहभागिता, र सार्वजनिक व्यवस्थापनमा लैङ्गिकता।"
+    },
+    {
+      "id": 6,
+      "title_en": "Disaster and reconstruction governance",
+      "title_ne": "विपद् तथा पुनर्निर्माण शासन",
+      "description_en": "Governance after the 2015 earthquake, the role of security agencies in disaster management, and technology in reconstruction.",
+      "description_ne": "सन् २०१५ को भूकम्पपछिको शासन, विपद् व्यवस्थापनमा सुरक्षा निकायको भूमिका, र पुनर्निर्माणमा प्रविधि।"
+    }
+  ],
+  "publications": [
+    { "kind": "book", "title_en": "Intersecting Realities: Social Inclusion, Youth Entrepreneurship and Geopolitics in Nepal", "authors": "N. R. Paudel et al.", "venue": "Central Department of Public Administration, Tribhuvan University", "year": 2025 },
+    { "kind": "book", "title_en": "Social Accountability in the Federal Nepal: Provincial Comparison", "authors": "N. R. Paudel, S. Pahari", "venue": "", "year": 2024 },
+    { "kind": "book", "title_en": "Organization and Management in Nepal's Public Bodies: A Comparative Study", "title_ne": "नेपालका सार्वजनिक निकायमा संगठन र व्यवस्थापनः तुलनात्मक अध्ययन", "authors": "N. R. Paudel, S. Pahari", "venue": "In Nepali (2080 BS)", "year": 2023 },
+    { "kind": "book", "title_en": "Public Administration and Federalism in Nepal", "authors": "N. R. Paudel", "venue": "Society of Management and Governance Policy Research Centre", "year": 2022 },
+    { "kind": "book", "title_en": "Case Studies in Public Administration: A Teaching and Learning Method", "title_ne": "जनप्रशासन विधामा मामिला अध्ययनः शिक्षण सिकाई विधि", "authors": "N. R. Paudel", "venue": "Pairavi Prakashan · In Nepali (2079 BS)", "year": 2022 },
+    { "kind": "book", "title_en": "Development Management", "authors": "N. R. Paudel, S. Pahari", "venue": "Kathmandu", "year": 2014 },
+    { "kind": "book", "title_en": "Public Policy Implementation: A Case Study of Reproductive Health Service Delivery at Local Level in Nepal", "authors": "N. R. Paudel", "venue": "LAP Lambert Academic Publishing, Germany", "year": 2013 },
+    { "kind": "edited", "title_en": "Civil Service Management and Administrative Systems in South Asia", "authors": "I. Jamil, T. N. Dhakal, N. R. Paudel (eds.)", "venue": "Palgrave Macmillan", "year": 2019 },
+    { "kind": "article", "title_en": "Effects of Peers' Performance Nature on an Employee", "authors": "", "venue": "Public Organization Review", "year": 2025 },
+    { "kind": "article", "title_en": "Gender as Management Capital", "authors": "", "venue": "Public Personnel Management", "year": 2024 },
+    { "kind": "chapter", "title_en": "Quest for Democratic Governance in Nepal", "authors": "", "venue": "Palgrave Macmillan", "year": 2023 },
+    { "kind": "article", "title_en": "Disaster Management by Security Agencies in Nepal", "authors": "", "venue": "Journal of APF Command and Staff College", "year": 2023 },
+    { "kind": "article", "title_en": "Patient Satisfaction in a Tertiary Public Hospital in Nepal", "authors": "", "venue": "BMC Health Services Research", "year": 2021 },
+    { "kind": "article", "title_en": "Rethinking Civil Service Governance amid COVID-19 in Nepal: With and without Internet?", "authors": "N. R. Paudel", "venue": "Ministry of Federal Affairs and General Administration, pp. 215–225", "year": 2021 },
+    { "kind": "chapter", "title_en": "Application of Artificial Intelligence in Reconstruction Governance", "authors": "", "venue": "Palgrave Macmillan", "year": 2020 },
+
+    { "kind": "conference", "title_en": "Satisfaction of Civil Servants in Nepal", "venue": "EROPA Conference, Yogyakarta, Indonesia", "year": 2024 },
+    { "kind": "conference", "title_en": "Civil Service Management in Nepal", "venue": "EROPA Conference, Hanoi, Vietnam", "year": 2023 },
+    { "kind": "conference", "title_en": "Earthquake 2015, Artificial Intelligence and Reconstruction Governance", "venue": "Jawaharlal Nehru University, New Delhi, India", "year": 2019 },
+    { "kind": "conference", "title_en": "Gender Gaps and Citizen Confidence in South Asia", "venue": "3rd Conference on Public Policy and Governance in South Asia, Kathmandu, Nepal", "year": 2019 },
+    { "kind": "conference", "title_en": "Local Election in Nepal: Means of Electoral Accountability", "venue": "IPSA Conference, Brisbane, Australia", "year": 2018 },
+    { "kind": "conference", "title_en": "Does Good Governance Matter for Institutional Trust?", "venue": "IPPA Conference, Lee Kuan Yew School of Public Policy, Singapore", "year": 2017 },
+    { "kind": "conference", "title_en": "An Appraisal of Environment Management Functions in Nepal's Municipality Area", "venue": "7th International Seminar, Kathmandu, Nepal", "year": 2017 },
+    { "kind": "conference", "title_en": "Citizens' Trust in Public Institutions after the April 25, 2015 Earthquake", "venue": "IPSA Conference, Poznań, Poland", "year": 2016 },
+    { "kind": "conference", "title_en": "Women's Participation in Nepalese Civil Service", "venue": "International Conference on Inclusive Governance in South Asia, Dhaka, Bangladesh", "year": 2016 },
+    { "kind": "conference", "title_en": "Inclusive Governance: A Case Study of Civil Service", "venue": "INSEARCH 2015, Comilla, Bangladesh", "year": 2015 },
+    { "kind": "conference", "title_en": "Does NGOs' Role Matter for Health Service Delivery?", "venue": "NAPSIPAG Conference, Dhaka, Bangladesh", "year": 2014 },
+    { "kind": "conference", "title_en": "Role of Government of Nepal in Mitigating Natural Disasters", "venue": "NAPSIPAG Conference, New Delhi, India", "year": 2013 },
+    { "kind": "conference", "title_en": "An Analysis of MDGs Achieved in the Health Sector", "venue": "NAPSIPAG Conference, Dehradun, India", "year": 2013 },
+    { "kind": "conference", "title_en": "Inclusive Governance in Nepal: A Case Study", "venue": "Nepalese Management Association Conference, Kathmandu, Nepal", "year": 2013 },
+    { "kind": "conference", "title_en": "Role of NGOs in Reproductive Health Policy Implementation", "venue": "AHI Alumni Nepal Conference, Kavrepalanchowk, Nepal", "year": 2013 },
+    { "kind": "conference", "title_en": "An Overview of Public Policy Teaching in Nepal", "venue": "NASC / Niti Foundation Conference, Kathmandu, Nepal", "year": 2013 },
+    { "kind": "conference", "title_en": "Anatomy of Corruption in Nepal", "venue": "Hamdard University / NAPSIPAG Conference, Karachi, Pakistan", "year": 2012 },
+    { "kind": "conference", "title_en": "Democratic Responsiveness in Nepal", "venue": "NAPSIPAG 9th International Conference, Colombo, Sri Lanka", "year": 2012 },
+    { "kind": "conference", "title_en": "Health Service Decentralization in Nepal", "venue": "TU–University of Bergen Conference, Kathmandu, Nepal", "year": 2011 },
+    { "kind": "conference", "title_en": "Bergen Summer Research School (participant)", "venue": "University of Bergen, Norway", "year": 2009 },
+    { "kind": "conference", "title_en": "Health Policy Design and Implementation in Nepal", "venue": "TU–University of Bergen Conference, Kathmandu, Nepal", "year": 2008 },
+    { "kind": "conference", "title_en": "Health Policy Implementation in Nepal", "venue": "NAPSIPAG / JNU Conference, New Delhi, India", "year": 2008 },
+    { "kind": "conference", "title_en": "Health Service Delivery: Practice and Challenge in Nepal", "venue": "NFU / CMI Conference, Bergen, Norway", "year": 2007 },
+    { "kind": "conference", "title_en": "The Role of Media in Extremist Messaging", "venue": "IDA / SEARCCT Conference, Kuala Lumpur, Malaysia", "year": 2007 },
+    { "kind": "conference", "title_en": "Nepal Communist Party (Maoist) Insurgency", "venue": "IDA Conference, Manila, Philippines", "year": 2007 },
+    { "kind": "conference", "title_en": "Critical Assessment of Local Governance", "venue": "NAPSIPAG Annual Conference, University of Sydney, Australia", "year": 2006 },
+    { "kind": "conference", "title_en": "Service Delivery in Nepal: Current Status and Challenges", "venue": "JNU Conference, New Delhi, India", "year": 2006 },
+    { "kind": "conference", "title_en": "Response of the Nepalese Government to the Maoist Insurgency", "venue": "CATR Symposium, Goa, India", "year": 2006 },
+    { "kind": "conference", "title_en": "The Cost and Risk of the Maoist Insurgency", "venue": "ISTR Conference, Bangkok, Thailand", "year": 2006 },
+    { "kind": "conference", "title_en": "The Role of NGOs to Empower Women in Nepal", "venue": "ISTR Asia Pacific Regional Conference, Bangalore, India", "year": 2005 },
+    { "kind": "conference", "title_en": "The Price of Maoist Insurgency and Political Violence", "venue": "CATR Symposium, Jakarta, Indonesia", "year": 2005 }
+  ],
+  "awards": [],
+  "courses": [
+    { "code": "MPH 503", "title_en": "Research Methodology in Public Administration", "title_ne": "जनप्रशासनमा अनुसन्धान विधि", "term": "M.Phil", "description_en": "", "description_ne": "" },
+    { "code": "MPH 510", "title_en": "Administrative Science and Behaviour", "title_ne": "प्रशासनिक विज्ञान र व्यवहार", "term": "M.Phil", "description_en": "", "description_ne": "" },
+    { "code": "MPH 611", "title_en": "Human Resource Development in Nepal", "title_ne": "नेपालमा मानव संसाधन विकास", "term": "M.Phil", "description_en": "", "description_ne": "" },
+    { "code": "MPH 612", "title_en": "Nepalese Civil Service", "title_ne": "नेपाली निजामती सेवा", "term": "M.Phil", "description_en": "", "description_ne": "" },
+    { "code": "MPA", "title_en": "Development Management I and II", "title_ne": "विकास व्यवस्थापन I र II", "term": "MPA", "description_en": "", "description_ne": "" },
+    { "code": "MPA", "title_en": "Research Methodology", "title_ne": "अनुसन्धान विधि", "term": "MPA", "description_en": "", "description_ne": "" },
+    { "code": "MPA", "title_en": "Public Policy", "title_ne": "सार्वजनिक नीति", "term": "MPA", "description_en": "", "description_ne": "" },
+    { "code": "MPA", "title_en": "Personnel Administration in SAARC Countries", "title_ne": "सार्क मुलुकहरूमा कर्मचारी प्रशासन", "term": "MPA", "description_en": "", "description_ne": "" }
+  ],
+  "home": {
+    "stats": [
+      { "value": "30+", "label_en": "Conference papers across 14 countries", "label_ne": "१४ देशमा प्रस्तुत सम्मेलन कार्यपत्र" },
+      { "value": "8", "label_en": "Books and edited volumes", "label_ne": "पुस्तक तथा सम्पादित ग्रन्थ" },
+      { "value": "12", "label_en": "M.Phil theses guided", "label_ne": "एमफिल शोधपत्र निर्देशन" },
+      { "value": "4", "label_en": "PhD dissertations co-supervised", "label_ne": "विद्यावारिधि शोध सह-निर्देशन" }
+    ],
+    "roles": [
+      { "when": "Current", "when_ne": "हाल", "title_en": "Head, Central Department of Public Administration", "title_ne": "प्रमुख, जनप्रशासन केन्द्रीय विभाग", "org_en": "Tribhuvan University", "org_ne": "त्रिभुवन विश्वविद्यालय" },
+      { "when": "Current", "when_ne": "हाल", "title_en": "Executive Member, representing Nepal", "title_ne": "कार्यकारी सदस्य, नेपालको प्रतिनिधि", "org_en": "Eastern Regional Organization for Public Administration (EROPA)", "org_ne": "पूर्वी क्षेत्रीय जनप्रशासन संगठन (EROPA)" },
+      { "when": "2022 –", "when_ne": "२०२२ –", "title_en": "Editor-in-Chief", "title_ne": "प्रधान सम्पादक", "org_en": "South Asian Journal of Policy and Governance", "org_ne": "साउथ एसियन जर्नल अफ पोलिसी एन्ड गभर्नेन्स" },
+      { "when": "2013 – 2019", "when_ne": "२०१३ – २०१९", "title_en": "Managing Editor", "title_ne": "व्यवस्थापकीय सम्पादक", "org_en": "South Asian Journal of Policy and Governance", "org_ne": "साउथ एसियन जर्नल अफ पोलिसी एन्ड गभर्नेन्स" },
+      { "when": "", "when_ne": "", "title_en": "Secretary, Public Administration Subject Committee", "title_ne": "सचिव, जनप्रशासन विषय समिति", "org_en": "Designed curricula for the M.Phil, MPA, MPS and BPA programmes, and helped launch the Bachelor of Public Sector Governance at Padma Kanya Campus", "org_ne": "एमफिल, एमपीए, एमपीएस र बीपीए कार्यक्रमको पाठ्यक्रम निर्माण, तथा पद्मकन्या क्याम्पसमा सार्वजनिक क्षेत्र शासन स्नातक कार्यक्रम सुरु गर्न सहयोग" },
+      { "when": "2000 – 2008", "when_ne": "२००० – २००८", "title_en": "Civil Servant (Non-Gazetted I)", "title_ne": "निजामती कर्मचारी (रा.प.अनं. प्रथम)", "org_en": "Nepal Army and Ministry of Defence", "org_ne": "नेपाली सेना र रक्षा मन्त्रालय" }
+    ],
+    "education": [
+      { "year": "2017", "title_en": "Capacity building for evidence-based policy design", "title_ne": "प्रमाणमा आधारित नीति निर्माण क्षमता विकास", "org_en": "Harvard Kennedy School, USA", "org_ne": "हार्वर्ड केनेडी स्कुल, अमेरिका" },
+      { "year": "2012", "title_en": "PhD, Public Policy Implementation", "title_ne": "विद्यावारिधि, सार्वजनिक नीति कार्यान्वयन", "org_en": "Tribhuvan University, Nepal", "org_ne": "त्रिभुवन विश्वविद्यालय, नेपाल" },
+      { "year": "2007", "title_en": "Research methodology and organizational politics", "title_ne": "अनुसन्धान विधि र संगठनात्मक राजनीति", "org_en": "University of Bergen, Norway", "org_ne": "बर्गेन विश्वविद्यालय, नर्वे" }
+    ],
+    "memberships": [
+      { "short": "EROPA", "name": "Eastern Regional Organization for Public Administration" },
+      { "short": "PAAN", "name": "Public Administration Association of Nepal" },
+      { "short": "MAN", "name": "Management Association of Nepal" },
+      { "short": "IPSA", "name": "International Political Science Association" },
+      { "short": "IPPA", "name": "International Public Policy Association" },
+      { "short": "NAPSIPAG", "name": "Network of Asia-Pacific Schools and Institutes of Public Administration and Governance" }
+    ],
+    "gallery": [
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra52.jpg", "caption_en": "Presenting a research book to the Vice-Chancellor", "caption_ne": "उपकुलपतिलाई अनुसन्धान पुस्तक हस्तान्तरण" },
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra53.jpg", "caption_en": "Presenting the activities report to the Rector", "caption_ne": "रेक्टरलाई गतिविधि प्रतिवेदन हस्तान्तरण" },
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra51.jpg", "caption_en": "In the news", "caption_ne": "सञ्चारमाध्यममा" },
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra8-1024x683.jpg", "caption_en": "Policy awareness programme", "caption_ne": "नीति सचेतना कार्यक्रम" },
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra2-1024x768.jpg", "caption_en": "M.Phil in Public Administration", "caption_ne": "जनप्रशासनमा एमफिल" },
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra10-1024x576.jpg", "caption_en": "Induction programme for Tribhuvan University lecturers", "caption_ne": "त्रिभुवन विश्वविद्यालयका उपप्राध्यापकका लागि प्रवेश तालिम" },
+      { "src": "https://narendrarajpaudel.com.np/wp-content/uploads/2026/04/Narendra7-1024x459.jpg", "caption_en": "Department activities", "caption_ne": "विभागीय गतिविधि" }
+    ],
+    "socials": [
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/narendra-paudel-81133258/" },
+      { "label": "Facebook", "href": "https://www.facebook.com/narendra.paudel.5" }
+    ]
+  }
+}
